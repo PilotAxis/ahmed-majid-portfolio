@@ -1,7 +1,7 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://ahmed-majid-portfolio.vercel.app/",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
