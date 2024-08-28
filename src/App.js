@@ -12,6 +12,7 @@ import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 import ProjectDetails from "./components/Dialog/ProjectDetails";
+import { Analytics } from "@vercel/analytics/react";
 import { useState } from "react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 
@@ -69,6 +70,7 @@ function App() {
             </div>
           </AnimatePresence>
           <SpeedInsights />
+          <Analytics />
         </Body>
       </BrowserRouter>
     </ThemeProvider>
