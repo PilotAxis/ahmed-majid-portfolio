@@ -180,17 +180,17 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/ahmed-majid-portfolio.appspot.com/o/amu_logos.jpeg?alt=media&token=12ea5304-a981-4e47-a4a1-dc44dddca18a",
-    role: "Undergradute Research Work",
-    company: "Aligarh Muslim University",
-    date: "June 2024 - Present",
-    desc: "Working on the Complex GeoSpatial Data that is provided by the satellite, to analyze and interpret the Weather Forecast Predictions of various areas and segments.",
+    img: "https://firebasestorage.googleapis.com/v0/b/ahmed-majid-portfolio.appspot.com/o/Badge.png?alt=media&token=92e71b0c-dbbc-4713-8b59-bf7354eb5ce0",
+    role: "Campus Ambassador",
+    company: "Winter of Blockchain",
+    date: "Oct 2024 - Present",
+    desc: "To interact with the community and spreading awarness about the Newest Web3 Technology. Sharing in-depth knowledge of JavaScript, Solidity and Web3",
     skills: [
-      "Python",
-      "ArcPy",
-      "ArcGis",
-      "Jupyter Notebook",
-      "Anaconda",
+      "JavaScript",
+      "Solidity",
+      "Ethereum",
+      "Blockchain",
+      "Web3",
     ],
   },
   {
