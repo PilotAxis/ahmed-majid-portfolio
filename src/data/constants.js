@@ -1,13 +1,13 @@
 export const Bio = {
   name: "Mohammed Ahmed Majid",
   roles: [
-    "Full Stack Developer",
+    "Frontend Web Developer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/PilotAxis",
   resume:
-    "https://drive.google.com/file/d/1RkiqYh2mqabw-xx6Fd5mhU3rfm975Oi8/view?usp=sharing",
+    "https://firebasestorage.googleapis.com/v0/b/ahmed-majid-portfolio.appspot.com/o/Resmue.pdf?alt=media&token=2adff906-4059-49bf-b09e-1de41ad4835b",
   linkedin: "https://www.linkedin.com/in/ahmedmajid72014/",
   twitter: "https://twitter.com/mohdahmedmajid",
   insta: "https://www.instagram.com/moham_ahmed_majid/",
@@ -149,9 +149,9 @@ export const skills = [
           "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png",
       },
       {
-        name: "ArcGis",
+        name: "Solidity",
         image:
-          "https://www.pngkit.com/png/full/143-1435691_arcgis-server-esri-logo.png",
+          "https://gitlab.com/uploads/-/system/project/avatar/40223494/Solidity.png",
       },
       {
         name: "VS Code",
@@ -181,7 +181,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/ahmed-majid-portfolio.appspot.com/o/Badge.png?alt=media&token=92e71b0c-dbbc-4713-8b59-bf7354eb5ce0",
-    role: "Campus Ambassador",
+    role: "Open-Source Contributor",
     company: "Winter of Blockchain",
     date: "Oct 2024 - Present",
     desc: "To interact with the community and spreading awarness about the Newest Web3 Technology. Sharing in-depth knowledge of JavaScript, Solidity and Web3",
@@ -242,7 +242,7 @@ export const experiences = [
       "Python",
       "Data Structures",
       "Algorithms",
-      "C++",
+      "Java",
     ],
   },
   {
@@ -266,9 +266,9 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/ahmed-majid-portfolio.appspot.com/o/amu_logos.jpeg?alt=media&token=12ea5304-a981-4e47-a4a1-dc44dddca18a",
     school: "Aligarh Muslim University",
     date: "Aug 2023 - May 2027",
-    grade: "9.111 SPI",
-    desc: "I am currently pursuing a Bachelor's degree in Petrochemical Engineering at Aligarh Muslim University, Aligarh. I have completed 2 semesters and have a CPI of 8.849. I have taken courses in Full Stack Development, Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems. I am also a member of the CodeChef ZHCET Chapter at AMU, where I am learning and working on exciting projects with a team of talented programmers.",
-    degree: "BTech, Petrochemical Engineering",
+    grade: "8.849 CPI",
+    desc: "I am currently pursuing a Bachelor's degree in Electrical Engineering at Aligarh Muslim University, Aligarh. I have completed 2 semesters and have a CPI of 8.849. I have taken courses in Full Stack Development, Data Structures, Algorithms, Object-Oriented Programming. I am also a member of the CodeChef ZHCET Chapter at AMU, where I am learning and working on exciting projects with a team of talented programmers.",
+    degree: "BTech, Electrical Engineering",
   },
   {
     id: 1,
