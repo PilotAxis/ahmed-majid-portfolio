@@ -21,7 +21,7 @@
     "@vercel/speed-insights": "^1.0.12",
     "emailjs": "^4.0.3",
     "framer-motion": "^11.0.5",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "maath": "^0.10.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
